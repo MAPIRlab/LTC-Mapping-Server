@@ -2,6 +2,7 @@
 
 ## Requirements
 - [LTC-Mapping - Client](https://github.com/MAPIRlab/LTC-Mapping-Client)
+- Unity 3D version 2020.3.18f1
 
 ## How to use:
 Download and embed in your Unity project.
